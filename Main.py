@@ -34,7 +34,7 @@ def get_countdown_text():
     today_str = today.strftime("%dth %B, %Y")
     
     return (
-        "⏳ JEE Main 2029 Countdown\n\n"
+        "⏳ JEE Main 2027 Countdown\n\n"
         f"📅 Today: {today_str}\n"
         "🎯 Estimated Target: 20th January 2027\n"
         f"⏳ Days Left: {days_left}\n"
